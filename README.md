@@ -1,6 +1,7 @@
 # KanbanBoard
 Kanban tahtası ornegi
 Windows da çalışacak Kanban tahtası oluşturmaya çalıştım 
+
 Yapılacaklar:
 1.	Programı bir MDI Form ile beraber tasarla. MDI Ana formdan yeni bir Form açabileyim ilgili forma açarken isim vereyim. Vermiş olduğum isim formun üzerinde çıksın.
 2.	Açılan formu Kan Ban Tahtası olarak tasarlayıp üçe böl. Her bölümün üstüne başlık ekle
